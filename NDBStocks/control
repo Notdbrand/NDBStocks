@@ -1,0 +1,9 @@
+Package: ndbstock
+Name: ndbstock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Redirect Stock app requests to Notdbrand.com!
+Maintainer: notdbrand
+Author: notdbrand
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
